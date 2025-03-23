@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Johannes, and I am a first-year honours CS student at the University of Waterloo.
+My name is Johannes, and I'm a first-year honours CS student at the University of Waterloo.
