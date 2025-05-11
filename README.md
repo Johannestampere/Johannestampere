@@ -1,4 +1,4 @@
-## Yo!
+## Hey!
 
 My name is Johannes, and I'm a first-year honours CS student at the University of Waterloo. I'm interested in all kinds of stuff, but my main areas of expertise are currently full-stack development and data analysis. I love to consistently gain knowledge, develop apps that actually have a real-world impact, and learn from other engineers. I'm always open to collab and work on cool stuff, so hit me up if you have anything in mind!
 
