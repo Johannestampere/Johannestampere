@@ -21,9 +21,7 @@ My name is Johannes, and I'm a first-year honours CS student at the University o
 ### 📚 I'm also currently grinding:
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=red" alt="Ruby"/>
   <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=green" alt="Supabase"/>
 </div>
 
