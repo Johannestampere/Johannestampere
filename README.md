@@ -5,6 +5,8 @@ I'm a 3rd-year Honours Computer Science student @ the **University of Waterloo**
 
 ## My experience
 
+### Incoming Software Engineer Intern @ Shopify (Winter 2027)
+
 ### Software Engineer Intern @ Senpilot (Summer 2026)
   - Built a service using Python, TypeScript, PyTorch, PostGIS, and Temporal that integrates ML models with aerial and satellite imagery, weather data, and LiDAR to deliver geospatial intelligence for utility infrastructure.
   - Built a local database provisioning system that gave each Git worktree an isolated PostgreSQL database, restoring demo data in seconds instead of multiple hours from automatically refreshed GCS snapshots and eliminating repeated Temporal data ingestion.
